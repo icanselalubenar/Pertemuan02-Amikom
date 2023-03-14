@@ -1,0 +1,6 @@
+D:\22.11.4824\Pertemuan01\CalculatorConsole\bin\Debug\CalculatorConsole.exe.config
+D:\22.11.4824\Pertemuan01\CalculatorConsole\bin\Debug\CalculatorConsole.exe
+D:\22.11.4824\Pertemuan01\CalculatorConsole\bin\Debug\CalculatorConsole.pdb
+D:\22.11.4824\Pertemuan01\CalculatorConsole\obj\Debug\CalculatorConsole.csprojResolveAssemblyReference.cache
+D:\22.11.4824\Pertemuan01\CalculatorConsole\obj\Debug\CalculatorConsole.exe
+D:\22.11.4824\Pertemuan01\CalculatorConsole\obj\Debug\CalculatorConsole.pdb
